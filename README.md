@@ -57,3 +57,7 @@ python3 app.py
 
 - 确保 API Key 正确配置
 - 知识库文档需要放在 knowledge_db 目录
+
+## 参考链接
+
+- ['个人知识助手'](https://github.com/logan-zou/Chat_with_Datawhale_langchain)
