@@ -60,4 +60,6 @@ python3 app.py
 
 ## 参考链接
 
-- ['个人知识助手'](https://github.com/logan-zou/Chat_with_Datawhale_langchain)
+- [个人知识助手](https://github.com/logan-zou/Chat_with_Datawhale_langchain)
+- [Deepseek API接口文档](https://api-docs.deepseek.com/zh-cn/)
+- [知乎：选择bge-m3作为embedding模型](https://zhuanlan.zhihu.com/p/20939683190)
