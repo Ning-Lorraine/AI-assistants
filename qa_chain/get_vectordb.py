@@ -37,7 +37,5 @@ def get_vectordb(file_path:str,persist_path:str):
         vectordb = load_knowledge_db(persist_path, embedding)
 
     return vectordb
-    
-    # 获取
-    return None
+
 
