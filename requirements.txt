@@ -1,0 +1,17 @@
+python-dotenv==1.0.0
+openai>=1.68.2,<2.0.0
+requests==2.31.0
+gradio>=3.0.0
+langchain==0.3.23
+langchain-community==0.3.21
+langchain-core==0.3.51
+langchain-text-splitters==0.3.8
+pydantic>=2.0
+pydantic-core==2.27.1
+pydantic-settings==2.8.1
+langchain_openai==0.3.12
+unstructured
+fastapi>=0.95.0
+markdown
+pymupdf==1.25.5
+chromadb
